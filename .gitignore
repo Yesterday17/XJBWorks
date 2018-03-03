@@ -12,3 +12,23 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+Thumbs.db
+/run
+/out
+/gradle
+/eclipse
+/build
+/.gradle
+gradlew
+gradlew.bat
+gradle.properties
+*.iml
+*.ipr
+*.iws
+*.iml
+/bin
+.classpath
+.project
+/.settings
+*.launch
